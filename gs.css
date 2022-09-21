@@ -37,3 +37,20 @@
 .sachaRissa {
     color: lightcoral;
 }
+
+table{
+    border: solid 3px mediumvioletred;
+    border-collapse: separate;
+    text-align: center;
+    margin-bottom: 100px;
+    
+}
+td, th {
+    border: solid 1px burlywood;
+    padding: 15px;
+    margin: 20px;
+    text-align: center;
+}
+tr:nth-child(even) {
+    background-color:bisque;
+}
