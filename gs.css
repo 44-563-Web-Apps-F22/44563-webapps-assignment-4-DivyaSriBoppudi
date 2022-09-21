@@ -1,0 +1,39 @@
+.speech {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 12;
+    color: black;
+    font-style:normal;
+}
+.song {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 12;
+    color: black;
+    font-style: italic;
+}
+.direction {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13;
+    color: black;
+    background-color: beige;
+}
+.name {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14;
+    color: black;
+}
+.direction:hover {
+    background-color: aquamarine;
+    color:red;
+}
+.chorus {
+    color: blueviolet;
+}
+.princess {
+    color: deeppink;
+}
+.blanche {
+    color: chocolate;
+}
+.sachaRissa {
+    color: lightcoral;
+}
