@@ -21,6 +21,11 @@
     font-size: 14;
     color: black;
 }
+.name:hover {
+    color: darkorange;
+    text-shadow:1px 2px 3px chartreuse;
+    
+}
 .direction:hover {
     background-color: aquamarine;
     color:red;
