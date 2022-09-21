@@ -24,7 +24,6 @@
 .name:hover {
     color: darkorange;
     text-shadow:1px 2px 3px chartreuse;
-    
 }
 .direction:hover {
     background-color: aquamarine;
@@ -36,6 +35,10 @@
 .princess {
     color: deeppink;
 }
+.princess:hover {
+    text-shadow:1px 2px 3px cornflowerblue; 
+}
+
 .blanche {
     color: chocolate;
 }
